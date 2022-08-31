@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="33fe0b67-5d19-41b9-8de3-4a5f6e16a690" name="Changes" comment="" />
+    <list default="true" id="33fe0b67-5d19-41b9-8de3-4a5f6e16a690" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Karaoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E74LtY0A6hK5zTwFM5JFbrP3OY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +58,59 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Cau09">
+    <configuration name="Cau05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau05" />
+      <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau06" />
+      <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau07" />
+      <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau08" />
+      <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cau09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau09" />
+      <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cau09" />
+        <item itemvalue="Application.Cau08" />
+        <item itemvalue="Application.Cau07" />
+        <item itemvalue="Application.Cau06" />
+        <item itemvalue="Application.Cau05" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +121,16 @@
       <updated>1661933239719</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
