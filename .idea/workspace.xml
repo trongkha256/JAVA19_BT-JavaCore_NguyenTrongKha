@@ -5,31 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33fe0b67-5d19-41b9-8de3-4a5f6e16a690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Karaoke.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cau22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cau22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,47 +44,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Cau09">
-    <configuration name="Cau05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cau05" />
+}</component>
+  <component name="RunManager" selected="Application.Cau19">
+    <configuration name="Cau14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau14" />
       <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cau06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cau06" />
+    <configuration name="Cau16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau16" />
       <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cau07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cau07" />
+    <configuration name="Cau17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau17" />
       <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cau08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cau08" />
+    <configuration name="Cau18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau18" />
       <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cau09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cau09" />
+    <configuration name="Cau19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cau19" />
       <module name="JAVA19_BT-JavaCore_NguyenTrongKha" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cau09" />
-        <item itemvalue="Application.Cau08" />
-        <item itemvalue="Application.Cau07" />
-        <item itemvalue="Application.Cau06" />
-        <item itemvalue="Application.Cau05" />
+        <item itemvalue="Application.Cau19" />
+        <item itemvalue="Application.Cau18" />
+        <item itemvalue="Application.Cau17" />
+        <item itemvalue="Application.Cau16" />
+        <item itemvalue="Application.Cau14" />
       </list>
     </recent_temporary>
   </component>
